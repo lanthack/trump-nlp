@@ -4,7 +4,7 @@ Natural language processing with Trump Tweets and Speeches.
 
 # Setting up your environment #
 
-Use conda.
+Use [conda](http://conda.pydata.org/docs/index.html).
 
 Run `conda env create -f environment.yml` to create a python environment called `lant-nlp` complete with:
 
